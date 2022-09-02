@@ -17,4 +17,4 @@ One thing that i need to clarify is, you cannot open file on VS Code, instead, o
 
 See ya!
 
-Pedrão, a Pedra
+### Pedrão, a Pedra.
