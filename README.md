@@ -1,6 +1,6 @@
 # MusicDownloader
 
-##Download your music with python!
+## Download your music with python!
 
 First thing first, all you need is a IDE like Visual Studio Code with python extension installed, and you need python either installed on your pc. 
 After you installing the extension and python as well, you need to install two library on VS Code (Visual Code Studio).
